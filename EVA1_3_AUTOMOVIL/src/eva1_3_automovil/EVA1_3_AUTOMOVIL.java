@@ -26,10 +26,17 @@ public class EVA1_3_AUTOMOVIL {
         year = 2022;
         precio = 999000.1;
 
+        //IMPRIMIMOS LAS VARIABLES
         System.out.println(marca);
         System.out.println(modelo);
         System.out.println(year);
         System.out.println(precio);
+
+        String company;
+        String producto;
+        int precio;
+        
+        
     }
     
 }
