@@ -31,10 +31,6 @@ public class EVA1_3_AUTOMOVIL {
         System.out.println(modelo);
         System.out.println(year);
         System.out.println(precio);
-
-        String company;
-        String producto;
-        int precio;
         
         
     }
